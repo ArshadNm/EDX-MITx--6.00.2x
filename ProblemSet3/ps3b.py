@@ -163,7 +163,7 @@ End helper code
 #         return len(self.viruses)
 # #
 # # PROBLEM 3
-# #
+# #     
 # def simulationWithoutDrug(numViruses, maxPop, maxBirthProb, clearProb,
 #                           numTrials):
 #     """
